@@ -1,0 +1,15 @@
+.underConstruction{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,0.9490740740740741) 0%, rgba(197,197,244,1) 0%, rgba(28,134,156,1) 100%);
+padding: 2rem;
+}
+.main {
+    margin: 0 auto;
+}
+
+.buttons {
+    margin: 1rem auto;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+}
